@@ -15,4 +15,7 @@ jsconfig.json
 .vscode/
 typings/
 
+# phpstorm
+.idea
+
 
